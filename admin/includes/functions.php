@@ -1,7 +1,7 @@
 <?php 
 
-$conn = mysqli_connect("localhost","root", "", "tms");
-
+// $conn = mysqli_connect("localhost","root", "", "tms");
+$conn = mysqli_connect("remotemysql.com","01PAz0UUnj", "01PAz0UUnj", "4KkQdzOZUt");
 
 //get categories 
 function get_cats(){
