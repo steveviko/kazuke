@@ -3,7 +3,7 @@ include('./admin/includes/config.php');
 
 
 ?>
-<?php include_once"includes/header.php "; ?>
+<?php include_once"http://kazuke.herokuapp.com/includes/header.php "; ?>
 	
 <body>
 <!-- banner -->
