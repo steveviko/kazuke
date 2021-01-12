@@ -1,13 +1,13 @@
 <?php
-include('./admin/includes/config.php');
+include_once('./admin/includes/config.php');
 
 
 ?>
-<?php include_once"./includes/header.php "; ?>
+<?php include_once("includes/header.php "); ?>
 	
 <body>
 <!-- banner -->
-	<?php include_once"./banner_top.php "; ?>
+	<?php include_once("banner_top.php "); ?>
 	
 <!-- //banner -->
 
@@ -36,12 +36,12 @@ include('./admin/includes/config.php');
 	<div class="banner-slider">
 		
 		<!-- contact -->
-		<?php include_once"contact.php";?>
+		<?php include_once("contact.php");?>
 		<!-- contact end -->
 		
 	</div>
 <!-- //banner-slider -->
 <!-- testimonials -->
-	<?php include_once"includes/testimonials.php"; ?>
+	<?php include_once("includes/testimonials.php"); ?>
 <!-- //testimonials -->
-<?php include_once"includes/footer.php "; ?>
+<?php include_once("includes/footer.php "); ?>
