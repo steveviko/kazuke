@@ -1,4 +1,4 @@
-	<?php 
+<?php 
 
 $sql = "SELECT * from services order by rand() ";
 $query = $dbh->prepare($sql);
@@ -19,7 +19,7 @@ if($query->rowCount() > 0)
 				  <li class="media">
 					<div class="media-left">
 					  <a href="#">
-						<img class="media-object img-responsive" src="admin/pacakgeimages/<?php echo htmlentities($result->image);?>" style="height:90px;"alt="" />
+						<img class="media-object img-responsive" src="admin/pacakgeimages/<?php echo htmlentities($result->image);?>" style="height:90px;" alt="" />
 					  </a>
 					   
 					</div>
