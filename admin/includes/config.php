@@ -5,8 +5,7 @@
 // define('DB_PASS','');
 // define('DB_NAME','tms');
 // Establish database connection.
-define('DB_HOST','remotemysql.com
-');
+define('DB_HOST','remotemysql.com');
 define('DB_USER','4KkQdzOZUt');
 define('DB_PASS','01PAz0UUnj');
 define('DB_NAME','4KkQdzOZUt');
