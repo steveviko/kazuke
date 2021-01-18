@@ -1,5 +1,5 @@
 <?php include_once('./admin/includes/config.php');?>
-<?php include_once("includes/header.php "); ?>
+<?php include_once("https://kazuke.herokuapp.com/includes/header.php "); ?>
 	
 <body>
 <!-- banner -->
