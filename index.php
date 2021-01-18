@@ -1,9 +1,9 @@
-<?php include_once('https://kazuke.herokuapp.com/admin/includes/config.php');?>
-<?php include_once("https://kazuke.herokuapp.com/includes/header.php "); ?>
+<?php include_once('./admin/includes/config.php');?>
+<?php include_once("includes/header.php "); ?>
 	
 <body>
 <!-- banner -->
-	<?php include_once("https://kazuke.herokuapp.com/banner_top.php "); ?>
+	<?php include_once("banner_top.php "); ?>
 	
 <!-- //banner -->
 
@@ -13,11 +13,11 @@
 		<div class="container">
 			<div class="banner-bottom-video-grids">
 				<div class="banner-bottom-video-grid-left">
-					<?php include_once "https://kazuke.herokuapp.com/includes/side.php";?>
+					<?php include_once "includes/side.php";?>
 				</div>
 				<div class="banner-bottom-video-grid-right">
 					<h4 class="h3_title">At Kazuke we offer a wide range of services</h4>
-					<?php include_once"https://kazuke.herokuapp.com/includes/lists.php"; ?>
+					<?php include_once"includes/lists.php"; ?>
 					<?php //include_once"category.php"; ?>
 					<?php //include_once"real_estate.php"; ?>
 					<?php //include_once"includes/list_horizontal.php"; ?>
@@ -32,12 +32,12 @@
 	<div class="banner-slider">
 		
 		<!-- contact -->
-		<?php include_once("https://kazuke.herokuapp.com/contact.php");?>
+		<?php include_once("contact.php");?>
 		<!-- contact end -->
 		
 	</div>
 <!-- //banner-slider -->
 <!-- testimonials -->
-	<?php include_once("https://kazuke.herokuapp.com/includes/testimonials.php"); ?>
+	<?php include_once("includes/testimonials.php"); ?>
 <!-- //testimonials -->
-<?php include_once("https://kazuke.herokuapp.com/includes/footer.php "); ?>
+<?php include_once("includes/footer.php "); ?>

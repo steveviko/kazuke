@@ -3,7 +3,7 @@
 ?>	
 
 <div class="banner-layer">
-	<script src="js/jquery.vide.min.js"></script>	
+	<script src="https://kazuke.herokuapp.com/js/jquery.vide.min.js"></script>	
 	<div data-vide-bg="video/real">
 			<div class="logo text-center" style="margin-top:-30px">
 				<h1>
