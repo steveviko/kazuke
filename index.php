@@ -1,9 +1,9 @@
-<?php include_once('./admin/includes/config.php');?>
-<?php include_once("includes/header.php "); ?>
+<?php include_once('./config.php');?>
+<?php include_once("./header.php "); ?>
 	
 <body>
 <!-- banner -->
-	<?php include_once("banner_top.php "); ?>
+	<?php include_once("./banner_top.php "); ?>
 	
 <!-- //banner -->
 
