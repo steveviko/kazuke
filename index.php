@@ -3,7 +3,7 @@
 	
 <body>
 <!-- banner -->
-	<?php include_once("banner_top.php "); ?>
+	<?php include_once("banner_top.php"); ?>
 	
 <!-- //banner -->
 
