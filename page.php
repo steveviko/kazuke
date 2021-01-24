@@ -1,11 +1,10 @@
 <?php
-include('./admin/includes/config.php');
+include_once('./config.php');?>
 
 
-?>
-<?php include_once"./includes/header.php "; ?>
+<?php include_once("./header.php"); ?>
 
-<?php include_once"./includes/header_small.php "; ?>
+<?php include_once("./includes/header_small.php"); ?>
 	
 <body>
 <!-- banner -->
@@ -19,7 +18,7 @@ include('./admin/includes/config.php');
 		<div class="container">
 			<div class="banner-bottom-video-grids">
 				<div class="banner-bottom-video-grid-left">
-					<?php include_once "includes/side.php";?>
+					<?php include_once("includes/side.php");?>
 				</div>
 				<div class="banner-bottom-video-grid-right">
 				<?php 
@@ -77,6 +76,6 @@ foreach($results as $result)
 	</div>
 <!-- //banner-slider -->
 <!-- testimonials -->
-	<?php include_once"includes/testimonials.php"; ?>
+	<?php include_once"includes/testimonials.php"; 
 <!-- //testimonials -->
-<?php include_once"includes/footer.php "; ?>
+ include_once"includes/footer.php "; ?>

@@ -3,7 +3,7 @@ include('./admin/includes/config.php');
 
 
 ?>
-<?php include_once"includes/header.php "; ?>
+<?php include_once("header.php"); ?>
 	<!-- banner -->
 	
 <!-- //banner -->
@@ -11,7 +11,7 @@ include('./admin/includes/config.php');
 <!-- banner -->
 	
 	<!-- banner -->
-	<?php include_once"./includes/header_small.php "; ?>
+<?php include_once("./includes/header_small.php"); ?>
 	
 <!-- //banner -->
 <!-- //banner -->
@@ -22,7 +22,7 @@ include('./admin/includes/config.php');
 		<div class="container">
 			<div class="banner-bottom-video-grids">
 				<div class="banner-bottom-video-grid-left">
-					<?php include_once "includes/side.php";?>
+					<?php include_once("includes/side.php");?>
 				</div>
 				<?php 
 				$conn = mysqli_connect("localhost","root", "", "tms");
@@ -132,6 +132,6 @@ if(isset($_GET['cat'])){
 	</div>
 <!-- //banner-slider -->
 <!-- testimonials -->
-	<?php include_once"includes/testimonials.php"; ?>
+	<?php include_once("includes/testimonials.php"); ?>
 <!-- //testimonials -->
-<?php include_once"includes/footer.php "; ?>
+<?php include_once"(includes/footer.php"); ?>
