@@ -13,7 +13,7 @@
 		<div class="container">
 			<div class="banner-bottom-video-grids">
 				<div class="banner-bottom-video-grid-left">
-					<?php include_once "includes/side.php";?>
+				<?php include_once "includes/side.php";?>
 				</div>
 				<div class="banner-bottom-video-grid-right">
 					<h4 class="h3_title">At Kazuke we offer a wide range of services</h4>
@@ -40,4 +40,4 @@
 <!-- testimonials -->
 	<?php include_once("includes/testimonials.php"); ?>
 <!-- //testimonials -->
-<?php include_once("includes/footer.php "); ?>
+<?php include_once("includes/footer.php"); ?>
