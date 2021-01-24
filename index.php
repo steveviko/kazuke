@@ -1,5 +1,5 @@
-<?php include_once('config.php');?>
-<?php include_once("header.php "); ?>
+<?php include_once('config.php');
+ include_once('header.php'); ?>
 	
 <body>
 <!-- banner -->
