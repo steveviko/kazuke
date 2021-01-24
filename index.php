@@ -38,6 +38,6 @@
 	</div>
 <!-- //banner-slider -->
 <!-- testimonials -->
-	<?php include_once("includes/testimonials.php"); ?>
+	<?php include_once("includes/testimonials.php"); 
 <!-- //testimonials -->
-<?php include_once("includes/footer.php"); ?>
+ include_once("includes/footer.php"); ?>
