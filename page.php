@@ -78,4 +78,4 @@ foreach($results as $result)
 <!-- testimonials -->
 	<?php include_once"includes/testimonials.php"; 
 <!-- //testimonials -->
- include_once"includes/footer.php "; ?>
+ include_once"includes/footer.php"; ?>

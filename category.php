@@ -25,7 +25,7 @@ include('./admin/includes/config.php');
 					<?php include_once("includes/side.php");?>
 				</div>
 				<?php 
-				$conn = mysqli_connect("localhost","root", "", "tms");
+				$conn = mysqli_connect("remotemysql.com","4KkQdzOZUt", "01PAz0UUnj", "4KkQdzOZUt");
 
 				
 
@@ -126,7 +126,7 @@ if(isset($_GET['cat'])){
 	<div class="banner-slider">
 		
 		<!-- contact -->
-		<?php include_once"contact.php";?>
+		<?php include_once("contact.php");?>
 		<!-- contact end -->
 		
 	</div>
@@ -134,4 +134,4 @@ if(isset($_GET['cat'])){
 <!-- testimonials -->
 	<?php include_once("includes/testimonials.php"); ?>
 <!-- //testimonials -->
-<?php include_once"(includes/footer.php"); ?>
+<?php include_once("includes/footer.php"); ?>
