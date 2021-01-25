@@ -39,5 +39,5 @@
 <!-- //banner-slider -->
 <!-- testimonials -->
 	<?php include_once("includes/testimonials.php"); 
-<!-- //testimonials -->
+// <!-- testimonials -->
  include_once("includes/footer.php"); ?>
