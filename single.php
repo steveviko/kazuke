@@ -7,7 +7,7 @@ include('./admin/includes/config.php');
 
 
 ?>
-<?php include_once"includes/header.php "; ?>
+<?php include_once"header.php"; ?>
 	
 <body>
 <!-- banner -->
@@ -27,7 +27,7 @@ include('./admin/includes/config.php');
 					<?php include_once "includes/side.php";?>
 				</div>
 				<?php 
-				$conn = mysqli_connect("localhost","root", "", "tms");
+				$conn = mysqli_connect("remotemysql.com","4KkQdzOZUt", "01PAz0UUnj", "4KkQdzOZUt");
 
 				
 
