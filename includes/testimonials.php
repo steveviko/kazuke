@@ -16,7 +16,9 @@
 									<span>☆</span>
 									<span>☆</span>
 								</div>
-								<p>Itaque earum rerum hic tenetur a sapiente delectus rerum hic tenetur.<span>Andrew Williums</span></p>
+								<p>I was fortunate to have found Kazuke General Service Ltd when my family wanted move to a new House. 
+								As our Realtor, They helped us find the right house in the right neighborhood for the right price.
+								 <span>Andrew Williums</span></p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -34,7 +36,7 @@
 									<span>☆</span>
 									<span>☆</span>
 								</div>
-								<p>Itaque earum rerum hic tenetur a sapiente delectus rerum hic tenetur.<span>James</span></p>
+								<p>I had the pleasure for working with one of Kazuke team members Sarah. From start to finish she was very responsive, kind, and a constant professional. I look forward to the opportunity to work with her and the Kazuke Real Estate Team again..<span>James</span></p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -52,7 +54,8 @@
 									<span>☆</span>
 									<span>☆</span>
 								</div>
-								<p>Itaque earum rerum hic tenetur a sapiente delectus rerum hic tenetur.<span>Micheal France</span></p>
+								<p>We are so lucky that we found Keneth of the Kazuke Real Estate Team, he made Construction of 
+								 our first home an enjoyable and easy experience. Quick to respond and will do anything to help, we highly recommend Kazuke General Service Ltd!<span>Micheal Wali</span></p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
