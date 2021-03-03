@@ -1525,6 +1525,7 @@ h2.typoh2 {
   }
 }
 @media (max-width: 480px) {
+  
   .banner {
     min-height: 405px;
   }
@@ -2839,6 +2840,15 @@ h2.typoh2 {
   .banner-info {
     margin: 3em auto 0;
     width: 100%;
+  }
+  .banner-slider {
+    background:#000000;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 462px;
   }
   .bs-glyphicons li {
     float: left;

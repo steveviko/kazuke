@@ -103,7 +103,7 @@
 					<ul class="social_list">
 					<li>
 							<a href="#">
-							 <button type="submit" class="btn btn_apt"><h3 class="h2header">Call Us</h3></button>
+							 <button type="submit" class="btn btn_apt btn_apt"><h3 class="h2header">Call Us</h3></button>
 								<!-- <img src="images/22.jpg" alt="" /> -->
 							</a>
 						</li>

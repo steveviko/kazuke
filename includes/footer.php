@@ -80,7 +80,7 @@
 
 	<div class="footer-bottom wtrhee-agileinfo">
 		<div class="footer">
-				<p> &copy; 2020 Kazuke. All Rights Reserved.Design by
+				<p> &copy; 2021 Kazuke. All Rights Reserved.Design by
 					<a href="#" target="=_blank">Venviko</a>
 				</p>
 			</div>

@@ -19,4 +19,19 @@
 <link href='//fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 <link href="//fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
 <!-- //fonts -->
+
+<style>
+@media screen and (max-width: 568px) {
+  .social_list li {
+    margin: 0.1em 0.8em;
+    display: block;
+  }
+
+  .btn_top{
+	  margin-top:5px
+  }
+
+  
+}
+</style>
 </head>
